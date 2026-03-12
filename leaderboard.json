@@ -1,26 +1,8 @@
 [
   {
-    "name": "asdfasdf",
-    "score": 1,
-    "title": "Padawan",
-    "date": "2026-03-11"
-  },
-  {
     "name": "Nate",
-    "score": 1,
-    "title": "Padawan",
-    "date": "2026-03-11"
-  },
-  {
-    "name": "Nate",
-    "score": 10,
-    "title": "Sith Lord",
-    "date": "2026-03-11"
-  },
-  {
-    "name": "sadf",
-    "score": 4,
-    "title": "Padawan",
+    "score": 100,
+    "title": "The King",
     "date": "2026-03-11"
   }
 ]
